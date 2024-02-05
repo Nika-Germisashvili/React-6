@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Hello_World {
+    width: 220px;
+    height: 50px;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    color: rgba(226, 156, 26, 0.979);
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: black 2px 2px 20px;
+}
+
+a, .cp {
+    font-weight: bold !important;
+}
+
+a:hover {
+    cursor: pointer;
+}
